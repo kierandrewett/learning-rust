@@ -5,5 +5,5 @@ fn main() {
 }
 
 fn give_melon(cat_name: String) {
-    println!("🐱🍉")
+    println!("{}: 🐱🍉", cat_name);
 }
