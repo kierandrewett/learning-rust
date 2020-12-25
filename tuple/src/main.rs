@@ -8,4 +8,6 @@ fn main() {
     println!("What is Y?: {}\nWhat is X?: {}\nWhat is Z?: {}", y, x, z);
 
     let five_hundred = x.0;
+
+    let six_point_four
 }
