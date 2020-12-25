@@ -1,7 +1,7 @@
 fn main() {
     println!("Hello world");
 
-    give_melon();
+    give_melon("Kitten");
 }
 
 fn give_melon(cat_name: String) {
