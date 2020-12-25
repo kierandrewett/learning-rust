@@ -7,11 +7,13 @@ fn main() {
 
     println!("What is Y?: {}\nWhat is X?: {}\nWhat is Z?: {}", y, x, z);
 
-    let five_hundred = x.0;
+    let tup2: (i32, f64, u8) = (500, 6.4, 1);
+    
+    let five_hundred = tup2.0;
 
-    let six_point_four = x.1;
+    let six_point_four = tup2.1;
 
-    let one = x.2;
+    let one = tup2.2;
 
     println!("{} {} {}", five_hundred, six_point_four, one);
 }
