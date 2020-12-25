@@ -16,7 +16,9 @@ fn main() {
 
     println!("{}", number_five);
     
-    let num = 68;
+    let num = plus_one(68);
+
+    println!("{}", );
 }
 
 fn five() -> i32 {
