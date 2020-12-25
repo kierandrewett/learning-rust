@@ -1,3 +1,3 @@
-cd {0}
+cd {}
 cargo run
 cd ../
