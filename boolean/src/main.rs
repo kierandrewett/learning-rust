@@ -3,5 +3,5 @@ fn main() {
     let f: bool = false;
     let t_typed: boolean = true;
 
-    println!("{} {}", t, f, t_typed);
+    println!("{} {} {}", t, f, t_typed);
 }
