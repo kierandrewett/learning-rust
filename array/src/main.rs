@@ -7,6 +7,8 @@ fn main() {
         "March", 
         "May", 
         "June", 
-        "July", "August", "September", "October", "November", "December"];
+        "July", 
+        "August", 
+        "September", "October", "November", "December"];
 
 }
