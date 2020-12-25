@@ -5,5 +5,5 @@ fn main() {
 
     let (x, y, z) = tup;
 
-    println!("What is Y?: {}\nWhat is X?: {}", y, x);
+    println!("What is Y?: {}\nWhat is X?: {}\nWhat is Z?: {}", y, x, z);
 }
