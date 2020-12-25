@@ -7,5 +7,5 @@ fn main() {
 
     println!("What is Y?: {}\nWhat is X?: {}\nWhat is Z?: {}", y, x, z);
 
-    let x
+    let five_hundred
 }
