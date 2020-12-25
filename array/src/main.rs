@@ -15,4 +15,6 @@ fn main() {
         "December"
     ];
 
+    let 7th_month = months[6];
+
 }
