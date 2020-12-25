@@ -1,4 +1,4 @@
 fn main() {
-    let united_kingdom = 'gb';
+    let united_kingdom = 'y';
     let me_lon = '🐱🍉';
 }
