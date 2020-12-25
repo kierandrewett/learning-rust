@@ -3,5 +3,5 @@ fn main() {
 
     let x = x + 1;
 
-    let x = x
+    let x = x * 2;
 }
