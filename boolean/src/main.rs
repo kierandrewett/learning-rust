@@ -1,6 +1,6 @@
 fn main() {
     let t = true;
-    let f = false;
+    let f: bool = false;
 
     println!("{} {}", t, f);
 }
