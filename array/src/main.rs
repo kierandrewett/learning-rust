@@ -12,6 +12,7 @@ fn main() {
         "September", 
         "October", 
         "November", 
-        "December"];
+        "December"
+    ];
 
 }
