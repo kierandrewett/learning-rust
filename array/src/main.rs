@@ -20,6 +20,6 @@ fn main() {
 
     println!("{:#?} 7th: {}", months, seventh_month);
 
-    let invalid_month = months[56832]; // there are not 56,832 months
+    // let invalid_month = months[56832]; // there are not 56,832 months
 
 }
