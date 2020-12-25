@@ -16,7 +16,7 @@ fn main() {
         "December"
     ];
 
-    let seventh_month = months[5];
+    let seventh_month = months[6];
 
     println!("{:#?} 7th: {}", months, seventh_month);
 
