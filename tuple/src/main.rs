@@ -12,4 +12,6 @@ fn main() {
     let six_point_four = x.1;
 
     let one = x.2;
+
+    println!("{} {} {}", five_hundred, six_point_four, one);
 }
