@@ -4,6 +4,6 @@ fn main() {
     give_melon("Kitten");
 }
 
-fn give_melon(cat_name: String) {
+fn give_melon(cat_name: &str) {
     println!("{}: 🐱🍉", cat_name);
 }
