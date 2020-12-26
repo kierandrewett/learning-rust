@@ -3,7 +3,7 @@ fn main() {
 
     takes_ownership(s);
 
-    println!("{}", s); // this throws an error
+    // println!("{}", s); // this throws an error
 
     let x = 5;
 
