@@ -6,7 +6,7 @@ fn main() {
     let s3 = takes_and_gives_back(s2);
 
     println!("{}", s1);
-    println!("{}", s2);
+    // println!("{}", s2); // cant use s2 because it's been given to s3
     println!("{}", s3);
 }
 
