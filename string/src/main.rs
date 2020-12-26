@@ -7,6 +7,7 @@ fn main() {
 
     println!("{}", s1);
     println!("{}", s2);
+    println!("{}", s3);
 }
 
 fn gives_ownership() -> String {
