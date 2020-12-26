@@ -4,6 +4,8 @@ fn main() {
     let s2 = String::from("me lon");
 
     let s3 = takes_and_gives_back(s2);
+
+    println!("{}", s1);
 }
 
 fn gives_ownership() -> String {
