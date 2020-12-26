@@ -2,6 +2,10 @@ fn main() {
     let s = String::from("Hello");
 
     takes_ownership(s);
+
+    let x = 5;
+
+    make_copy(x);
 }
 
 fn takes_ownership(some_string: String) {
