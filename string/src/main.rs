@@ -7,5 +7,5 @@ fn main() {
 }
 
 fn calculate_length(some_string: String) -> usize {
-    some_string.len();
+    some_string.len()
 }
