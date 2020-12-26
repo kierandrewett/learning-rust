@@ -9,5 +9,5 @@ fn main() {
 fn gives_ownership() -> String {
     let some_string = String::from("hello me lon");
 
-    
+    some_string
 }
