@@ -3,7 +3,7 @@ fn main() {
 
     let changed = change(&mut s1);
 
-    println!("Length of '{}' is {}", s1, len);
+    println!("{} = {}", s1, changed);
 }
 
 fn change(some_string: &mut String) {
