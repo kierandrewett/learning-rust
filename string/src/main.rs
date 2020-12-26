@@ -3,3 +3,7 @@ fn main() {
 
     takes_ownership(s);
 }
+
+fn takes_ownership(some_string: String) {
+    
+}
