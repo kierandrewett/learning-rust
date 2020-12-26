@@ -6,6 +6,7 @@ fn main() {
     let s3 = takes_and_gives_back(s2);
 
     println!("{}", s1);
+    println!("{}", s2);
 }
 
 fn gives_ownership() -> String {
