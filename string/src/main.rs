@@ -1,7 +1,6 @@
 fn main() {
-    let mut s = String::from("Hello");
+    let s1 = String::from("Hello");
+    let s2 = s1.clone();
 
-    s.push_str(" world!");
-
-    println!("String: {}", s);
+    println!("{} {}", s1, s2);
 }
