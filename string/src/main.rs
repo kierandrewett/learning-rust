@@ -6,7 +6,7 @@ fn main() {
     println!("{} = {}", s1, changed);
 }
 
-fn change(some_string: &mut String) -> String {
+fn change(some_string: &mut String) -> &mut String {
     some_string.push_str(" world!");
 
     some_string
