@@ -3,7 +3,7 @@ fn main() {
 
     let len = calculate_length(&s1);
 
-    println!("Length of '{}' is {}", s2, len);
+    println!("Length of '{}' is {}", s1, len);
 }
 
 fn calculate_length(some_string: String) -> usize {
