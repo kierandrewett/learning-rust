@@ -11,3 +11,7 @@ fn gives_ownership() -> String {
 
     some_string
 }
+
+fn takes_and_gives_back(a_string: String) -> String {
+
+}
