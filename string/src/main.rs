@@ -7,5 +7,5 @@ fn main() {
 }
 
 fn change(some_string: &String) -> usize {
-    some_string.len()
+    some_string.push_str(" world!")
 }
