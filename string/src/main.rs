@@ -6,6 +6,6 @@ fn main() {
     println!("Length of '{}' is {}", s1, len);
 }
 
-fn change(some_string: &String) -> usize {
+fn change(some_string: &String) {
     some_string.push_str(" world!")
 }
