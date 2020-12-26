@@ -5,3 +5,9 @@ fn main() {
 
     let s3 = takes_and_gives_back(s2);
 }
+
+fn gives_ownership() -> String {
+    let some_string = String::from("hello me lon");
+
+    
+}
