@@ -9,5 +9,5 @@ fn main() {
 fn calculate_length(some_string: String) -> (String, usize) {
     let length = some_string.len();
     
-    (some_string, some_string.len())
+    (some_string, length)
 }
