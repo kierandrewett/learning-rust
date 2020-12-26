@@ -5,3 +5,7 @@ fn main() {
 
     println!("Length of '{}' is {}", s2, len);
 }
+
+fn calculate_length(some_string: String) -> (String, i32) {
+    (some_string, some_string.len())
+}
