@@ -1,7 +1,5 @@
 fn main() {
-    let mut s1 = String::from("hello");
-
-    change(&mut s1);
+    let reference_to_nothing = dangle();
 }
 
 fn change(some_string: &mut String) {
