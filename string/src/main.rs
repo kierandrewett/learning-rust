@@ -7,3 +7,5 @@ fn main() {
 fn takes_ownership(some_string: String) {
     println!("{}", some_string);
 }
+
+fn make_copy
