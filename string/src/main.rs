@@ -1,3 +1,3 @@
 fn main() {
-    let s = String::from("Hello world!");
+    let mut s = String::from("Hello world!");
 }
