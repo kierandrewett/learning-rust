@@ -6,6 +6,6 @@ fn main() {
     println!("Length of '{}' is {}", s1, len);
 }
 
-fn change(some_string: &String) {
+fn change(some_string: &mut String) {
     some_string.push_str(" world!")
 }
