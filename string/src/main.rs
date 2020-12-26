@@ -7,7 +7,7 @@ fn main() {
 }
 
 fn change(some_string: &mut String) -> String {
-    some_string.push_str(" world!")
+    some_string.push_str(" world!");
 
     some_string
 }
